@@ -45,3 +45,8 @@ print(customers_never_purchased)
 
 print("\nBooks purchased with users:")
 print(books_purchased_with_users)
+
+##
+
+In this example, the data is loaded from CSV files into Pandas DataFrames, transformed using SQL-like queries, and the results are stored in new DataFrames. 
+In a real-world scenario, you would likely want to store these results back into a database or another destination.
